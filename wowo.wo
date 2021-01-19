@@ -1,0 +1,8 @@
+start:
+    cetak "Hello"
+    ke other_label
+    cetak "untuk tugas bahasa pemrograman"
+    stop
+    cetak "This should not show"
+other_label:
+    cetak "ini percobaan"
